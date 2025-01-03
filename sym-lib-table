@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NRF52840-CKAA-R")(type "KiCad")(uri "${KIPRJMOD}/custom_components/NRF52840-CKAA-R/NRF52840-CKAA-R.kicad_sym")(options "")(descr "NRF52840-CKAA-R"))
+  (lib (name "PG1316S")(type "KiCad")(uri "${KIPRJMOD}/custom_components/PG1316S/PG1316S.kicad_sym")(options "")(descr "PG1316S"))
+  (lib (name "PG1316M")(type "KiCad")(uri "${KIPRJMOD}/custom_components/PG1316M/PG1316M.kicad_sym")(options "")(descr "PG1316M"))
+)
